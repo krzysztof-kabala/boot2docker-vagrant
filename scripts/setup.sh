@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Docker Host IP
-DOCKER_HOST_IP='192.168.10.10'
+DOCKER_HOST_IP='127.0.0.1'
 
 # Console colors
 red='\033[0;31m'
